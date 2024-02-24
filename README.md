@@ -9,6 +9,7 @@
 
 
 <!--
+To do : html, css, javascirpt  icon 추가
 https://simpleicons.org/      : icons
 **everydayday/everydayday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
