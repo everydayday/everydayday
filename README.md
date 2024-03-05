@@ -2,9 +2,12 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=Wish%20you%20be%20HAPPY!&animation=fadeIn)
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/PYTHON-purple?style=for-the-badge&logo=python&logoColor=white">
+
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/Visual Studio-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 
 
 ... Still Editing
