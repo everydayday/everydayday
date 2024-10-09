@@ -25,7 +25,15 @@
 <h4>🍱IDE</h4>
 
 <img src="https://img.shields.io/badge/Visual Studio-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+
+
+<h4>📞Contact</h4>
+<a href="https://open.kakao.com/o/sEL81DTg">
+<img src="https://img.shields.io/badge/KakaoTalk-FFCD00.svg?style=for-the-badge&logo=kakaotalk&logoColor=white" />
+</a>
+
 </div>
+
 
 
 
